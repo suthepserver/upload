@@ -1,0 +1,1 @@
+localhost/create_lottery/index.php
